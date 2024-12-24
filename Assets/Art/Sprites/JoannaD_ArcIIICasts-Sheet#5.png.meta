@@ -1,0 +1,4106 @@
+fileFormatVersion: 2
+guid: 366996f440a81f24994212e407350b86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3812115409302384513
+    second: JoannaD_ArcIIICasts-Sheet#5_0
+  - first:
+      213: -5805345488854261544
+    second: JoannaD_ArcIIICasts-Sheet#5_1
+  - first:
+      213: -4389004568274802104
+    second: JoannaD_ArcIIICasts-Sheet#5_2
+  - first:
+      213: 208589645620268731
+    second: JoannaD_ArcIIICasts-Sheet#5_3
+  - first:
+      213: 2102256719095288187
+    second: JoannaD_ArcIIICasts-Sheet#5_4
+  - first:
+      213: 3775677036960858863
+    second: JoannaD_ArcIIICasts-Sheet#5_5
+  - first:
+      213: 5057084611442525485
+    second: JoannaD_ArcIIICasts-Sheet#5_6
+  - first:
+      213: 1298011095859968708
+    second: JoannaD_ArcIIICasts-Sheet#5_7
+  - first:
+      213: 8640387098706395955
+    second: JoannaD_ArcIIICasts-Sheet#5_8
+  - first:
+      213: 4122293584603484351
+    second: JoannaD_ArcIIICasts-Sheet#5_9
+  - first:
+      213: 7186113264295419359
+    second: JoannaD_ArcIIICasts-Sheet#5_10
+  - first:
+      213: -2502277580700320069
+    second: JoannaD_ArcIIICasts-Sheet#5_11
+  - first:
+      213: -5176077825348941478
+    second: JoannaD_ArcIIICasts-Sheet#5_12
+  - first:
+      213: -4154222077772900639
+    second: JoannaD_ArcIIICasts-Sheet#5_13
+  - first:
+      213: 7207957547389219573
+    second: JoannaD_ArcIIICasts-Sheet#5_14
+  - first:
+      213: 5353676975234659165
+    second: JoannaD_ArcIIICasts-Sheet#5_15
+  - first:
+      213: 4996450544764699022
+    second: JoannaD_ArcIIICasts-Sheet#5_16
+  - first:
+      213: -7297332257368404216
+    second: JoannaD_ArcIIICasts-Sheet#5_17
+  - first:
+      213: -3566359510059650390
+    second: JoannaD_ArcIIICasts-Sheet#5_18
+  - first:
+      213: 7883989739390997288
+    second: JoannaD_ArcIIICasts-Sheet#5_19
+  - first:
+      213: 7605160341700523714
+    second: JoannaD_ArcIIICasts-Sheet#5_20
+  - first:
+      213: -6432268628332635150
+    second: JoannaD_ArcIIICasts-Sheet#5_21
+  - first:
+      213: 1749123692199169660
+    second: JoannaD_ArcIIICasts-Sheet#5_22
+  - first:
+      213: -2003707158866357728
+    second: JoannaD_ArcIIICasts-Sheet#5_23
+  - first:
+      213: 2156932573377977636
+    second: JoannaD_ArcIIICasts-Sheet#5_24
+  - first:
+      213: -151517007126607065
+    second: JoannaD_ArcIIICasts-Sheet#5_25
+  - first:
+      213: 3728524668468154758
+    second: JoannaD_ArcIIICasts-Sheet#5_26
+  - first:
+      213: 2491767110826479351
+    second: JoannaD_ArcIIICasts-Sheet#5_27
+  - first:
+      213: -1717373187602696767
+    second: JoannaD_ArcIIICasts-Sheet#5_28
+  - first:
+      213: -2588264566412012719
+    second: JoannaD_ArcIIICasts-Sheet#5_29
+  - first:
+      213: 4922260418818096039
+    second: JoannaD_ArcIIICasts-Sheet#5_30
+  - first:
+      213: 6593803886975458173
+    second: JoannaD_ArcIIICasts-Sheet#5_31
+  - first:
+      213: 3981487358744648093
+    second: JoannaD_ArcIIICasts-Sheet#5_32
+  - first:
+      213: -4100466242173934475
+    second: JoannaD_ArcIIICasts-Sheet#5_33
+  - first:
+      213: -7385088089462306501
+    second: JoannaD_ArcIIICasts-Sheet#5_34
+  - first:
+      213: 7486654919916092868
+    second: JoannaD_ArcIIICasts-Sheet#5_35
+  - first:
+      213: -542757893249499163
+    second: JoannaD_ArcIIICasts-Sheet#5_36
+  - first:
+      213: -374093276892008684
+    second: JoannaD_ArcIIICasts-Sheet#5_37
+  - first:
+      213: -6166731045647893622
+    second: JoannaD_ArcIIICasts-Sheet#5_38
+  - first:
+      213: -3799757771715696809
+    second: JoannaD_ArcIIICasts-Sheet#5_39
+  - first:
+      213: -3961434383916346015
+    second: JoannaD_ArcIIICasts-Sheet#5_40
+  - first:
+      213: -7223969253508441627
+    second: JoannaD_ArcIIICasts-Sheet#5_41
+  - first:
+      213: -4766874341814632903
+    second: JoannaD_ArcIIICasts-Sheet#5_42
+  - first:
+      213: -3701874515499930089
+    second: JoannaD_ArcIIICasts-Sheet#5_43
+  - first:
+      213: 1364858934785780848
+    second: JoannaD_ArcIIICasts-Sheet#5_44
+  - first:
+      213: 8593879316983509323
+    second: JoannaD_ArcIIICasts-Sheet#5_45
+  - first:
+      213: 8576951370786072838
+    second: JoannaD_ArcIIICasts-Sheet#5_46
+  - first:
+      213: -2052447831193232675
+    second: JoannaD_ArcIIICasts-Sheet#5_47
+  - first:
+      213: -2408798684473611044
+    second: JoannaD_ArcIIICasts-Sheet#5_48
+  - first:
+      213: -6585724002013697431
+    second: JoannaD_ArcIIICasts-Sheet#5_49
+  - first:
+      213: 1415249101907826769
+    second: JoannaD_ArcIIICasts-Sheet#5_50
+  - first:
+      213: 357066220187623354
+    second: JoannaD_ArcIIICasts-Sheet#5_51
+  - first:
+      213: 5328700711106989007
+    second: JoannaD_ArcIIICasts-Sheet#5_52
+  - first:
+      213: 1633629968790766736
+    second: JoannaD_ArcIIICasts-Sheet#5_53
+  - first:
+      213: -1618847883875968992
+    second: JoannaD_ArcIIICasts-Sheet#5_54
+  - first:
+      213: 7225846601327780592
+    second: JoannaD_ArcIIICasts-Sheet#5_55
+  - first:
+      213: -4891774798792613865
+    second: JoannaD_ArcIIICasts-Sheet#5_56
+  - first:
+      213: 7683199467889342405
+    second: JoannaD_ArcIIICasts-Sheet#5_57
+  - first:
+      213: -2339780677405888806
+    second: JoannaD_ArcIIICasts-Sheet#5_58
+  - first:
+      213: 5778225141084718841
+    second: JoannaD_ArcIIICasts-Sheet#5_59
+  - first:
+      213: -9079340877084876676
+    second: JoannaD_ArcIIICasts-Sheet#5_60
+  - first:
+      213: -9078721657765566968
+    second: JoannaD_ArcIIICasts-Sheet#5_61
+  - first:
+      213: -3447734716333789934
+    second: JoannaD_ArcIIICasts-Sheet#5_62
+  - first:
+      213: 7598574811884120177
+    second: JoannaD_ArcIIICasts-Sheet#5_63
+  - first:
+      213: 6184046573357439717
+    second: JoannaD_ArcIIICasts-Sheet#5_64
+  - first:
+      213: -1533694755410335954
+    second: JoannaD_ArcIIICasts-Sheet#5_65
+  - first:
+      213: -377745287100023355
+    second: JoannaD_ArcIIICasts-Sheet#5_66
+  - first:
+      213: 8161745243164903966
+    second: JoannaD_ArcIIICasts-Sheet#5_67
+  - first:
+      213: 7725717184850323992
+    second: JoannaD_ArcIIICasts-Sheet#5_68
+  - first:
+      213: -3974708155832664052
+    second: JoannaD_ArcIIICasts-Sheet#5_69
+  - first:
+      213: 7677709968603720422
+    second: JoannaD_ArcIIICasts-Sheet#5_70
+  - first:
+      213: 8726460509645049473
+    second: JoannaD_ArcIIICasts-Sheet#5_71
+  - first:
+      213: -7056605197898203161
+    second: JoannaD_ArcIIICasts-Sheet#5_72
+  - first:
+      213: -5782183293954949339
+    second: JoannaD_ArcIIICasts-Sheet#5_73
+  - first:
+      213: 8898960730309574633
+    second: JoannaD_ArcIIICasts-Sheet#5_74
+  - first:
+      213: 6498200110722835508
+    second: JoannaD_ArcIIICasts-Sheet#5_75
+  - first:
+      213: -4080655459004384063
+    second: JoannaD_ArcIIICasts-Sheet#5_76
+  - first:
+      213: -5876556828264642482
+    second: JoannaD_ArcIIICasts-Sheet#5_77
+  - first:
+      213: -7143964630296551723
+    second: JoannaD_ArcIIICasts-Sheet#5_78
+  - first:
+      213: 1313769176920067011
+    second: JoannaD_ArcIIICasts-Sheet#5_79
+  - first:
+      213: -773437498478595204
+    second: JoannaD_ArcIIICasts-Sheet#5_80
+  - first:
+      213: -1018019219867810702
+    second: JoannaD_ArcIIICasts-Sheet#5_81
+  - first:
+      213: -3960835807950305916
+    second: JoannaD_ArcIIICasts-Sheet#5_82
+  - first:
+      213: 799695510545844694
+    second: JoannaD_ArcIIICasts-Sheet#5_83
+  - first:
+      213: -3732754584482030948
+    second: JoannaD_ArcIIICasts-Sheet#5_84
+  - first:
+      213: 4673565773083618774
+    second: JoannaD_ArcIIICasts-Sheet#5_85
+  - first:
+      213: -6125579273595973664
+    second: JoannaD_ArcIIICasts-Sheet#5_86
+  - first:
+      213: -3116999502463682262
+    second: JoannaD_ArcIIICasts-Sheet#5_87
+  - first:
+      213: 4592996889187521634
+    second: JoannaD_ArcIIICasts-Sheet#5_88
+  - first:
+      213: -6445864434702509687
+    second: JoannaD_ArcIIICasts-Sheet#5_89
+  - first:
+      213: -5817581541727775844
+    second: JoannaD_ArcIIICasts-Sheet#5_90
+  - first:
+      213: -8738011983390885301
+    second: JoannaD_ArcIIICasts-Sheet#5_91
+  - first:
+      213: 2684925397933607601
+    second: JoannaD_ArcIIICasts-Sheet#5_92
+  - first:
+      213: 3319051264718004917
+    second: JoannaD_ArcIIICasts-Sheet#5_93
+  - first:
+      213: -5717489733657932202
+    second: JoannaD_ArcIIICasts-Sheet#5_94
+  - first:
+      213: 6581186227268299668
+    second: JoannaD_ArcIIICasts-Sheet#5_95
+  - first:
+      213: 6648998704336281182
+    second: JoannaD_ArcIIICasts-Sheet#5_96
+  - first:
+      213: -4838363229542521558
+    second: JoannaD_ArcIIICasts-Sheet#5_97
+  - first:
+      213: 149911008909818830
+    second: JoannaD_ArcIIICasts-Sheet#5_98
+  - first:
+      213: -3452245894446801563
+    second: JoannaD_ArcIIICasts-Sheet#5_99
+  - first:
+      213: -1978162781019210781
+    second: JoannaD_ArcIIICasts-Sheet#5_100
+  - first:
+      213: -4556520471372469242
+    second: JoannaD_ArcIIICasts-Sheet#5_101
+  - first:
+      213: -603953475980167046
+    second: JoannaD_ArcIIICasts-Sheet#5_102
+  - first:
+      213: 16238288423798838
+    second: JoannaD_ArcIIICasts-Sheet#5_103
+  - first:
+      213: -3592554202424121330
+    second: JoannaD_ArcIIICasts-Sheet#5_104
+  - first:
+      213: -2203713303987313747
+    second: JoannaD_ArcIIICasts-Sheet#5_105
+  - first:
+      213: 4153514322954592243
+    second: JoannaD_ArcIIICasts-Sheet#5_106
+  - first:
+      213: 7616117552821286214
+    second: JoannaD_ArcIIICasts-Sheet#5_107
+  - first:
+      213: -9092131208596822477
+    second: JoannaD_ArcIIICasts-Sheet#5_108
+  - first:
+      213: 9198600509685628030
+    second: JoannaD_ArcIIICasts-Sheet#5_109
+  - first:
+      213: -4463975147275402312
+    second: JoannaD_ArcIIICasts-Sheet#5_110
+  - first:
+      213: -5289101451766175750
+    second: JoannaD_ArcIIICasts-Sheet#5_111
+  - first:
+      213: -5775710385512484307
+    second: JoannaD_ArcIIICasts-Sheet#5_112
+  - first:
+      213: -311955467228841226
+    second: JoannaD_ArcIIICasts-Sheet#5_113
+  - first:
+      213: -918116282138925784
+    second: JoannaD_ArcIIICasts-Sheet#5_114
+  - first:
+      213: -5173834023235606731
+    second: JoannaD_ArcIIICasts-Sheet#5_115
+  - first:
+      213: -6815518252072122261
+    second: JoannaD_ArcIIICasts-Sheet#5_116
+  - first:
+      213: 2479717412169005696
+    second: JoannaD_ArcIIICasts-Sheet#5_117
+  - first:
+      213: -4060341404743092170
+    second: JoannaD_ArcIIICasts-Sheet#5_118
+  - first:
+      213: -4734275742887569630
+    second: JoannaD_ArcIIICasts-Sheet#5_119
+  - first:
+      213: 3938164639156637721
+    second: JoannaD_ArcIIICasts-Sheet#5_120
+  - first:
+      213: 3682835569362612326
+    second: JoannaD_ArcIIICasts-Sheet#5_121
+  - first:
+      213: 4402622661329831329
+    second: JoannaD_ArcIIICasts-Sheet#5_122
+  - first:
+      213: -7330091167593177375
+    second: JoannaD_ArcIIICasts-Sheet#5_123
+  - first:
+      213: -1281872966837244544
+    second: JoannaD_ArcIIICasts-Sheet#5_124
+  - first:
+      213: 8839015947629174144
+    second: JoannaD_ArcIIICasts-Sheet#5_125
+  - first:
+      213: -3392707003003005401
+    second: JoannaD_ArcIIICasts-Sheet#5_126
+  - first:
+      213: 9071675705475131303
+    second: JoannaD_ArcIIICasts-Sheet#5_127
+  - first:
+      213: -6376070846848683821
+    second: JoannaD_ArcIIICasts-Sheet#5_128
+  - first:
+      213: 6823301608236781708
+    second: JoannaD_ArcIIICasts-Sheet#5_129
+  - first:
+      213: 8518203382605440971
+    second: JoannaD_ArcIIICasts-Sheet#5_130
+  - first:
+      213: -7533669656534397762
+    second: JoannaD_ArcIIICasts-Sheet#5_131
+  - first:
+      213: 3481288542884722459
+    second: JoannaD_ArcIIICasts-Sheet#5_132
+  - first:
+      213: 7186460376676248366
+    second: JoannaD_ArcIIICasts-Sheet#5_133
+  - first:
+      213: -5411016535278512573
+    second: JoannaD_ArcIIICasts-Sheet#5_134
+  - first:
+      213: -4835199555331366616
+    second: JoannaD_ArcIIICasts-Sheet#5_135
+  - first:
+      213: 8138981797265013431
+    second: JoannaD_ArcIIICasts-Sheet#5_136
+  - first:
+      213: -5789364105330049882
+    second: JoannaD_ArcIIICasts-Sheet#5_137
+  - first:
+      213: -4948765170351241109
+    second: JoannaD_ArcIIICasts-Sheet#5_138
+  - first:
+      213: 3853052594913445544
+    second: JoannaD_ArcIIICasts-Sheet#5_139
+  - first:
+      213: -8059499917731223429
+    second: JoannaD_ArcIIICasts-Sheet#5_140
+  - first:
+      213: 7959611428134378904
+    second: JoannaD_ArcIIICasts-Sheet#5_141
+  - first:
+      213: -398042766121217903
+    second: JoannaD_ArcIIICasts-Sheet#5_142
+  - first:
+      213: 2575280379403960963
+    second: JoannaD_ArcIIICasts-Sheet#5_143
+  - first:
+      213: -64339961880974871
+    second: JoannaD_ArcIIICasts-Sheet#5_144
+  - first:
+      213: -6083735911047335148
+    second: JoannaD_ArcIIICasts-Sheet#5_145
+  - first:
+      213: -6298725340130944901
+    second: JoannaD_ArcIIICasts-Sheet#5_146
+  - first:
+      213: 862687146990734707
+    second: JoannaD_ArcIIICasts-Sheet#5_147
+  - first:
+      213: -2174761642354310879
+    second: JoannaD_ArcIIICasts-Sheet#5_148
+  - first:
+      213: 5890412255733776936
+    second: JoannaD_ArcIIICasts-Sheet#5_149
+  - first:
+      213: 4060013203929304766
+    second: JoannaD_ArcIIICasts-Sheet#5_150
+  - first:
+      213: -5292478392114015039
+    second: JoannaD_ArcIIICasts-Sheet#5_151
+  - first:
+      213: 3243858489041975477
+    second: JoannaD_ArcIIICasts-Sheet#5_152
+  - first:
+      213: -2358166255905346841
+    second: JoannaD_ArcIIICasts-Sheet#5_153
+  - first:
+      213: 5128384593706152079
+    second: JoannaD_ArcIIICasts-Sheet#5_154
+  - first:
+      213: -5194093574596279773
+    second: JoannaD_ArcIIICasts-Sheet#5_155
+  - first:
+      213: -4128047379029259846
+    second: JoannaD_ArcIIICasts-Sheet#5_156
+  - first:
+      213: 4215054241991850866
+    second: JoannaD_ArcIIICasts-Sheet#5_157
+  - first:
+      213: -1237093956792497176
+    second: JoannaD_ArcIIICasts-Sheet#5_158
+  - first:
+      213: -8152878605550723563
+    second: JoannaD_ArcIIICasts-Sheet#5_159
+  - first:
+      213: -7483228616474375289
+    second: JoannaD_ArcIIICasts-Sheet#5_160
+  - first:
+      213: -1167419831666179064
+    second: JoannaD_ArcIIICasts-Sheet#5_161
+  - first:
+      213: 6043353410563554872
+    second: JoannaD_ArcIIICasts-Sheet#5_162
+  - first:
+      213: 8837316634769760615
+    second: JoannaD_ArcIIICasts-Sheet#5_163
+  - first:
+      213: -6099628674836794847
+    second: JoannaD_ArcIIICasts-Sheet#5_164
+  - first:
+      213: -5926484562763229627
+    second: JoannaD_ArcIIICasts-Sheet#5_165
+  - first:
+      213: 5797663269634705971
+    second: JoannaD_ArcIIICasts-Sheet#5_166
+  - first:
+      213: 1616322626960334410
+    second: JoannaD_ArcIIICasts-Sheet#5_167
+  - first:
+      213: 2670938205004621591
+    second: JoannaD_ArcIIICasts-Sheet#5_168
+  - first:
+      213: 2208277542368204544
+    second: JoannaD_ArcIIICasts-Sheet#5_169
+  - first:
+      213: 7668181910820526495
+    second: JoannaD_ArcIIICasts-Sheet#5_170
+  - first:
+      213: 5696572235086072846
+    second: JoannaD_ArcIIICasts-Sheet#5_171
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2052
+        width: 286
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fe24e64ca57e430800000000000000
+      internalID: 3812115409302384513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2052
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0ec6239054f6fa0800000000000000
+      internalID: -5805345488854261544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 2052
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ae96e599f1713c0800000000000000
+      internalID: -4389004568274802104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1938
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe45037d2f05e200800000000000000
+      internalID: 208589645620268731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1938
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b715a580957bc2d10800000000000000
+      internalID: 2102256719095288187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_5
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1938
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2c6aeb246e56430800000000000000
+      internalID: 3775677036960858863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_6
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1938
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25402819af5e2640800000000000000
+      internalID: 5057084611442525485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cabf3be636730210800000000000000
+      internalID: 1298011095859968708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1824
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333434c9942d8e770800000000000000
+      internalID: 8640387098706395955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_9
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1824
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb09922ac24553930800000000000000
+      internalID: 4122293584603484351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_10
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1824
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd1d02b0f33ab360800000000000000
+      internalID: 7186113264295419359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_11
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1824
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbefee84ccf164dd0800000000000000
+      internalID: -2502277580700320069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_12
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1824
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59cc4254a0ea28b0800000000000000
+      internalID: -5176077825348941478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_13
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1824
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6d240c70d3956c0800000000000000
+      internalID: -4154222077772900639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_14
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1824
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2fa30333fc70460800000000000000
+      internalID: 7207957547389219573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_15
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1824
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53bc0f08d41c4a40800000000000000
+      internalID: 5353676975234659165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_16
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1824
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81c1825c45f65540800000000000000
+      internalID: 4996450544764699022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_17
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1824
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f8e8f89faaaba90800000000000000
+      internalID: -7297332257368404216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_18
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1824
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2fe85cbeeb18ec0800000000000000
+      internalID: -3566359510059650390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_19
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1824
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823993595ee896d60800000000000000
+      internalID: 7883989739390997288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_20
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 1824
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6b2f27905fa8960800000000000000
+      internalID: 7605160341700523714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1710
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb185c13cdfbb6a0800000000000000
+      internalID: -6432268628332635150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_22
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1710
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e40c51bb2264810800000000000000
+      internalID: 1749123692199169660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_23
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1710
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0221dd184f66134e0800000000000000
+      internalID: -2003707158866357728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1596
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dd9a06fb6feed10800000000000000
+      internalID: 2156932573377977636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_25
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1596
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bc9c4b514b5edf0800000000000000
+      internalID: -151517007126607065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_26
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1596
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68153507e616eb330800000000000000
+      internalID: 3728524668468154758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1482
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe40df3cf8849220800000000000000
+      internalID: 2491767110826479351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_28
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1482
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c539265f2aaa28e0800000000000000
+      internalID: -1717373187602696767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_29
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1482
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153184e0713a41cd0800000000000000
+      internalID: -2588264566412012719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_30
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1482
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab3e9b85c16f4440800000000000000
+      internalID: 4922260418818096039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_31
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1482
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b13c123b5e18b50800000000000000
+      internalID: 6593803886975458173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_32
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1482
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99deaf68a5114730800000000000000
+      internalID: 3981487358744648093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_33
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1482
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574edbd8da73817c0800000000000000
+      internalID: -4100466242173934475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_34
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1482
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3981a0b285e28990800000000000000
+      internalID: -7385088089462306501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_35
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1482
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd7781dbf0f5e760800000000000000
+      internalID: 7486654919916092868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_36
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1482
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eff2dd529cb778f0800000000000000
+      internalID: -542757893249499163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f6dfd8524fecaf0800000000000000
+      internalID: -374093276892008684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_38
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1368
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bb8c669ce5b6aa0800000000000000
+      internalID: -6166731045647893622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_39
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1368
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7572b58407c844bc0800000000000000
+      internalID: -3799757771715696809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_40
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1368
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165d5a99a682609c0800000000000000
+      internalID: -3961434383916346015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_41
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1368
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e91948fc3e4fbb90800000000000000
+      internalID: -7223969253508441627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_42
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1368
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ef637ca09a8ddb0800000000000000
+      internalID: -4766874341814632903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_43
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1368
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e2e84ddbc40acc0800000000000000
+      internalID: -3701874515499930089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_44
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1368
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cac6848f3f0f210800000000000000
+      internalID: 1364858934785780848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_45
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1368
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41f06bd4b7934770800000000000000
+      internalID: 8593879316983509323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_46
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1368
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609e08f34d3770770800000000000000
+      internalID: 8576951370786072838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1254
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddad4b5629d3483e0800000000000000
+      internalID: -2052447831193232675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_48
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1254
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdca58cdb5a329ed0800000000000000
+      internalID: -2408798684473611044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_49
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1254
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96aa53fa9eeca94a0800000000000000
+      internalID: -6585724002013697431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_50
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1254
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15818e35f89f3a310800000000000000
+      internalID: 1415249101907826769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_51
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1254
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf139fd5dd84f400800000000000000
+      internalID: 357066220187623354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_52
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1254
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb47e7601953f940800000000000000
+      internalID: 5328700711106989007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_53
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1254
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094c4302dc1dba610800000000000000
+      internalID: 1633629968790766736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_54
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1254
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0281e283d62b889e0800000000000000
+      internalID: -1618847883875968992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f22b91233d574460800000000000000
+      internalID: 7225846601327780592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_56
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1140
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71022ccfcbcec1cb0800000000000000
+      internalID: -4891774798792613865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_57
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1140
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7b30e653530aa60800000000000000
+      internalID: 7683199467889342405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_58
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1140
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade26eededd678fd0800000000000000
+      internalID: -2339780677405888806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_59
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1140
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f60696c621603050800000000000000
+      internalID: 5778225141084718841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_60
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1140
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c702ca2a393bff180800000000000000
+      internalID: -9079340877084876676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_61
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1140
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806ec3ed0c6e10280800000000000000
+      internalID: -9078721657765566968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_62
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1140
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d6429da8f2720d0800000000000000
+      internalID: -3447734716333789934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_63
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1140
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178659d488f837960800000000000000
+      internalID: 7598574811884120177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_64
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1140
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea117f089522d550800000000000000
+      internalID: 6184046573357439717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1026
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2723edeeb837bae0800000000000000
+      internalID: -1533694755410335954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_66
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1026
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd33daa9aaf1caf0800000000000000
+      internalID: -377745287100023355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_67
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1026
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a041e4e08544170800000000000000
+      internalID: 8161745243164903966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_68
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1026
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a6226d8d2473b60800000000000000
+      internalID: 7725717184850323992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_69
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1026
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c000fbdbdfff6d8c0800000000000000
+      internalID: -3974708155832664052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_70
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1026
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaa917c984bc8a60800000000000000
+      internalID: 7677709968603720422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_71
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1026
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e0ed7499d9a1970800000000000000
+      internalID: 8726460509645049473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef3a13c5f6e11e90800000000000000
+      internalID: -7056605197898203161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_73
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 912
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ffd91fdee81cfa0800000000000000
+      internalID: -5782183293954949339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_74
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 912
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efb040b2a57f7b70800000000000000
+      internalID: 8898960730309574633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_75
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 912
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434e90f529e3e2a50800000000000000
+      internalID: 6498200110722835508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_76
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 912
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccf843fa799e57c0800000000000000
+      internalID: -4080655459004384063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_77
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 912
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48c3e433b6427ea0800000000000000
+      internalID: -5876556828264642482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_78
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 912
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de1833e40a8bdc90800000000000000
+      internalID: -7143964630296551723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_79
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 912
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb8d231b127b3210800000000000000
+      internalID: 1313769176920067011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73773761b23445f0800000000000000
+      internalID: -773437498478595204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_81
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 798
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2744249c9e44fd1f0800000000000000
+      internalID: -1018019219867810702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_82
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 798
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485897d61d84809c0800000000000000
+      internalID: -3960835807950305916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_83
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 798
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d94f8274d6191b00800000000000000
+      internalID: 799695510545844694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_84
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 798
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9adc3e7b77923cc0800000000000000
+      internalID: -3732754584482030948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_85
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 798
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dda21b1f47dbd040800000000000000
+      internalID: 4673565773083618774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_86
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 798
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef01d9fa129dfaa0800000000000000
+      internalID: -6125579273595973664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_87
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 798
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29359297713eb4d0800000000000000
+      internalID: -3116999502463682262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_88
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 798
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2641f72065a9dbf30800000000000000
+      internalID: 4592996889187521634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_89
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 798
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9899b33c270bb86a0800000000000000
+      internalID: -6445864434702509687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c935271296cc34fa0800000000000000
+      internalID: -5817581541727775844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_91
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 684
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a31e6a5685cb680800000000000000
+      internalID: -8738011983390885301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_92
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 684
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bac1409c65c24520800000000000000
+      internalID: 2684925397933607601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_93
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 684
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2e3d84a83af0e20800000000000000
+      internalID: 3319051264718004917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_94
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 684
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e406a316567a0b0800000000000000
+      internalID: -5717489733657932202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b250d4102155b50800000000000000
+      internalID: 6581186227268299668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_96
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 570
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e1ffbf71df54c50800000000000000
+      internalID: 6648998704336281182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_97
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 570
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a256ec8074eaadcb0800000000000000
+      internalID: -4838363229542521558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_98
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 570
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb7df1b447941200800000000000000
+      internalID: 149911008909818830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_99
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 570
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d923856a82710d0800000000000000
+      internalID: -3452245894446801563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_100
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 570
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb73717e672c84e0800000000000000
+      internalID: -1978162781019210781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_101
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 570
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c6c04d5ccf3c0c0800000000000000
+      internalID: -4556520471372469242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78f65373835e97f0800000000000000
+      internalID: -603953475980167046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_103
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 456
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638c24523a0b93000800000000000000
+      internalID: 16238288423798838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_104
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 456
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e086c20bcfea42ec0800000000000000
+      internalID: -3592554202424121330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_105
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 456
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3a8010d66da61e0800000000000000
+      internalID: -2203713303987313747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_106
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 456
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff943d354f34a930800000000000000
+      internalID: 4153514322954592243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_107
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 456
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645b787ff82e1b960800000000000000
+      internalID: 7616117552821286214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_108
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 456
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336e75486d242d180800000000000000
+      internalID: -9092131208596822477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_109
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 456
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cf9826d6ef7af70800000000000000
+      internalID: 9198600509685628030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_110
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 456
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b34a743146cc02c0800000000000000
+      internalID: -4463975147275402312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_111
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 456
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af76972a0465996b0800000000000000
+      internalID: -5289101451766175750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_112
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 456
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d227ef1610e88dfa0800000000000000
+      internalID: -5775710385512484307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_113
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 456
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa7516c726bbabf0800000000000000
+      internalID: -311955467228841226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_114
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 456
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8256b941b123243f0800000000000000
+      internalID: -918116282138925784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_115
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 456
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53726363e59d238b0800000000000000
+      internalID: -5173834023235606731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_116
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 456
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68cc09824a6a61a0800000000000000
+      internalID: -6815518252072122261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a3fa729d9b96220800000000000000
+      internalID: 2479717412169005696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_118
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 342
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6383a774105c6a7c0800000000000000
+      internalID: -4060341404743092170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_119
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 342
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227107c8b497c4eb0800000000000000
+      internalID: -4734275742887569630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_120
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 342
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9109fefbfdb27a630800000000000000
+      internalID: 3938164639156637721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_121
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 342
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6603806107f0c1330800000000000000
+      internalID: 3682835569362612326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a546a00cf1491d30800000000000000
+      internalID: 4402622661329831329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_123
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 228
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee51686be8464a90800000000000000
+      internalID: -7330091167593177375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_124
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 228
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d6d7c045fd53ee0800000000000000
+      internalID: -1281872966837244544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_125
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 228
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d137a5c2e7aaa70800000000000000
+      internalID: 8839015947629174144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_126
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 228
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7269603c4feaae0d0800000000000000
+      internalID: -3392707003003005401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_127
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 228
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7e2668df015ed70800000000000000
+      internalID: 9071675705475131303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_128
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 228
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d03cdeb855a387a0800000000000000
+      internalID: -6376070846848683821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_129
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 228
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c801e4a49ac31be50800000000000000
+      internalID: 6823301608236781708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc76ab858dcb63670800000000000000
+      internalID: 8518203382605440971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_131
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 114
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcc02bcc57037790800000000000000
+      internalID: -7533669656534397762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_132
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 114
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17f74f2c75005030800000000000000
+      internalID: 3481288542884722459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_133
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 114
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b253813af6bb360800000000000000
+      internalID: 7186460376676248366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_134
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 114
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34695f4412538e4b0800000000000000
+      internalID: -5411016535278512573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_135
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 114
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821e8565f9be5ecb0800000000000000
+      internalID: -4835199555331366616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_136
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 114
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baf95b82d873f070800000000000000
+      internalID: 8138981797265013431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_137
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 114
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acb762050c08afa0800000000000000
+      internalID: -5789364105330049882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_138
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 114
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6883681c44725bb0800000000000000
+      internalID: -4948765170351241109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_139
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 114
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a686b4bbeac87530800000000000000
+      internalID: 3853052594913445544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_140
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 117
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b782750a687e62090800000000000000
+      internalID: -8059499917731223429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_141
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 114
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dd61c0c68367e60800000000000000
+      internalID: 7959611428134378904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_142
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 114
+        width: 286
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1905eef863ed97af0800000000000000
+      internalID: -398042766121217903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_143
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 114
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38208635cdb3db320800000000000000
+      internalID: 2575280379403960963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_144
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 114
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9e833452b6b1ff0800000000000000
+      internalID: -64339961880974871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_145
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 114
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4137cb20c6a329ba0800000000000000
+      internalID: -6083735911047335148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b785ebbdcae6698a0800000000000000
+      internalID: -6298725340130944901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_147
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d8da4b361e8fb00800000000000000
+      internalID: 862687146990734707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_148
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12183540fc1b1d1e0800000000000000
+      internalID: -2174761642354310879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_149
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8228e93ecb2feb150800000000000000
+      internalID: 5890412255733776936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIICasts-Sheet#5_150
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 0
+        width: 286
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe0a938f70185830800000000000000
+      internalID: 4060013203929304766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1ef1e7b4c59b41b4882538289a8f257d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JoannaD_ArcIIICasts-Sheet#5_0: 3812115409302384513
+      JoannaD_ArcIIICasts-Sheet#5_1: -5805345488854261544
+      JoannaD_ArcIIICasts-Sheet#5_10: 7186113264295419359
+      JoannaD_ArcIIICasts-Sheet#5_100: -1978162781019210781
+      JoannaD_ArcIIICasts-Sheet#5_101: -4556520471372469242
+      JoannaD_ArcIIICasts-Sheet#5_102: -603953475980167046
+      JoannaD_ArcIIICasts-Sheet#5_103: 16238288423798838
+      JoannaD_ArcIIICasts-Sheet#5_104: -3592554202424121330
+      JoannaD_ArcIIICasts-Sheet#5_105: -2203713303987313747
+      JoannaD_ArcIIICasts-Sheet#5_106: 4153514322954592243
+      JoannaD_ArcIIICasts-Sheet#5_107: 7616117552821286214
+      JoannaD_ArcIIICasts-Sheet#5_108: -9092131208596822477
+      JoannaD_ArcIIICasts-Sheet#5_109: 9198600509685628030
+      JoannaD_ArcIIICasts-Sheet#5_11: -2502277580700320069
+      JoannaD_ArcIIICasts-Sheet#5_110: -4463975147275402312
+      JoannaD_ArcIIICasts-Sheet#5_111: -5289101451766175750
+      JoannaD_ArcIIICasts-Sheet#5_112: -5775710385512484307
+      JoannaD_ArcIIICasts-Sheet#5_113: -311955467228841226
+      JoannaD_ArcIIICasts-Sheet#5_114: -918116282138925784
+      JoannaD_ArcIIICasts-Sheet#5_115: -5173834023235606731
+      JoannaD_ArcIIICasts-Sheet#5_116: -6815518252072122261
+      JoannaD_ArcIIICasts-Sheet#5_117: 2479717412169005696
+      JoannaD_ArcIIICasts-Sheet#5_118: -4060341404743092170
+      JoannaD_ArcIIICasts-Sheet#5_119: -4734275742887569630
+      JoannaD_ArcIIICasts-Sheet#5_12: -5176077825348941478
+      JoannaD_ArcIIICasts-Sheet#5_120: 3938164639156637721
+      JoannaD_ArcIIICasts-Sheet#5_121: 3682835569362612326
+      JoannaD_ArcIIICasts-Sheet#5_122: 4402622661329831329
+      JoannaD_ArcIIICasts-Sheet#5_123: -7330091167593177375
+      JoannaD_ArcIIICasts-Sheet#5_124: -1281872966837244544
+      JoannaD_ArcIIICasts-Sheet#5_125: 8839015947629174144
+      JoannaD_ArcIIICasts-Sheet#5_126: -3392707003003005401
+      JoannaD_ArcIIICasts-Sheet#5_127: 9071675705475131303
+      JoannaD_ArcIIICasts-Sheet#5_128: -6376070846848683821
+      JoannaD_ArcIIICasts-Sheet#5_129: 6823301608236781708
+      JoannaD_ArcIIICasts-Sheet#5_13: -4154222077772900639
+      JoannaD_ArcIIICasts-Sheet#5_130: 8518203382605440971
+      JoannaD_ArcIIICasts-Sheet#5_131: -7533669656534397762
+      JoannaD_ArcIIICasts-Sheet#5_132: 3481288542884722459
+      JoannaD_ArcIIICasts-Sheet#5_133: 7186460376676248366
+      JoannaD_ArcIIICasts-Sheet#5_134: -5411016535278512573
+      JoannaD_ArcIIICasts-Sheet#5_135: -4835199555331366616
+      JoannaD_ArcIIICasts-Sheet#5_136: 8138981797265013431
+      JoannaD_ArcIIICasts-Sheet#5_137: -5789364105330049882
+      JoannaD_ArcIIICasts-Sheet#5_138: -4948765170351241109
+      JoannaD_ArcIIICasts-Sheet#5_139: 3853052594913445544
+      JoannaD_ArcIIICasts-Sheet#5_14: 7207957547389219573
+      JoannaD_ArcIIICasts-Sheet#5_140: -8059499917731223429
+      JoannaD_ArcIIICasts-Sheet#5_141: 7959611428134378904
+      JoannaD_ArcIIICasts-Sheet#5_142: -398042766121217903
+      JoannaD_ArcIIICasts-Sheet#5_143: 2575280379403960963
+      JoannaD_ArcIIICasts-Sheet#5_144: -64339961880974871
+      JoannaD_ArcIIICasts-Sheet#5_145: -6083735911047335148
+      JoannaD_ArcIIICasts-Sheet#5_146: -6298725340130944901
+      JoannaD_ArcIIICasts-Sheet#5_147: 862687146990734707
+      JoannaD_ArcIIICasts-Sheet#5_148: -2174761642354310879
+      JoannaD_ArcIIICasts-Sheet#5_149: 5890412255733776936
+      JoannaD_ArcIIICasts-Sheet#5_15: 5353676975234659165
+      JoannaD_ArcIIICasts-Sheet#5_150: 4060013203929304766
+      JoannaD_ArcIIICasts-Sheet#5_16: 4996450544764699022
+      JoannaD_ArcIIICasts-Sheet#5_17: -7297332257368404216
+      JoannaD_ArcIIICasts-Sheet#5_18: -3566359510059650390
+      JoannaD_ArcIIICasts-Sheet#5_19: 7883989739390997288
+      JoannaD_ArcIIICasts-Sheet#5_2: -4389004568274802104
+      JoannaD_ArcIIICasts-Sheet#5_20: 7605160341700523714
+      JoannaD_ArcIIICasts-Sheet#5_21: -6432268628332635150
+      JoannaD_ArcIIICasts-Sheet#5_22: 1749123692199169660
+      JoannaD_ArcIIICasts-Sheet#5_23: -2003707158866357728
+      JoannaD_ArcIIICasts-Sheet#5_24: 2156932573377977636
+      JoannaD_ArcIIICasts-Sheet#5_25: -151517007126607065
+      JoannaD_ArcIIICasts-Sheet#5_26: 3728524668468154758
+      JoannaD_ArcIIICasts-Sheet#5_27: 2491767110826479351
+      JoannaD_ArcIIICasts-Sheet#5_28: -1717373187602696767
+      JoannaD_ArcIIICasts-Sheet#5_29: -2588264566412012719
+      JoannaD_ArcIIICasts-Sheet#5_3: 208589645620268731
+      JoannaD_ArcIIICasts-Sheet#5_30: 4922260418818096039
+      JoannaD_ArcIIICasts-Sheet#5_31: 6593803886975458173
+      JoannaD_ArcIIICasts-Sheet#5_32: 3981487358744648093
+      JoannaD_ArcIIICasts-Sheet#5_33: -4100466242173934475
+      JoannaD_ArcIIICasts-Sheet#5_34: -7385088089462306501
+      JoannaD_ArcIIICasts-Sheet#5_35: 7486654919916092868
+      JoannaD_ArcIIICasts-Sheet#5_36: -542757893249499163
+      JoannaD_ArcIIICasts-Sheet#5_37: -374093276892008684
+      JoannaD_ArcIIICasts-Sheet#5_38: -6166731045647893622
+      JoannaD_ArcIIICasts-Sheet#5_39: -3799757771715696809
+      JoannaD_ArcIIICasts-Sheet#5_4: 2102256719095288187
+      JoannaD_ArcIIICasts-Sheet#5_40: -3961434383916346015
+      JoannaD_ArcIIICasts-Sheet#5_41: -7223969253508441627
+      JoannaD_ArcIIICasts-Sheet#5_42: -4766874341814632903
+      JoannaD_ArcIIICasts-Sheet#5_43: -3701874515499930089
+      JoannaD_ArcIIICasts-Sheet#5_44: 1364858934785780848
+      JoannaD_ArcIIICasts-Sheet#5_45: 8593879316983509323
+      JoannaD_ArcIIICasts-Sheet#5_46: 8576951370786072838
+      JoannaD_ArcIIICasts-Sheet#5_47: -2052447831193232675
+      JoannaD_ArcIIICasts-Sheet#5_48: -2408798684473611044
+      JoannaD_ArcIIICasts-Sheet#5_49: -6585724002013697431
+      JoannaD_ArcIIICasts-Sheet#5_5: 3775677036960858863
+      JoannaD_ArcIIICasts-Sheet#5_50: 1415249101907826769
+      JoannaD_ArcIIICasts-Sheet#5_51: 357066220187623354
+      JoannaD_ArcIIICasts-Sheet#5_52: 5328700711106989007
+      JoannaD_ArcIIICasts-Sheet#5_53: 1633629968790766736
+      JoannaD_ArcIIICasts-Sheet#5_54: -1618847883875968992
+      JoannaD_ArcIIICasts-Sheet#5_55: 7225846601327780592
+      JoannaD_ArcIIICasts-Sheet#5_56: -4891774798792613865
+      JoannaD_ArcIIICasts-Sheet#5_57: 7683199467889342405
+      JoannaD_ArcIIICasts-Sheet#5_58: -2339780677405888806
+      JoannaD_ArcIIICasts-Sheet#5_59: 5778225141084718841
+      JoannaD_ArcIIICasts-Sheet#5_6: 5057084611442525485
+      JoannaD_ArcIIICasts-Sheet#5_60: -9079340877084876676
+      JoannaD_ArcIIICasts-Sheet#5_61: -9078721657765566968
+      JoannaD_ArcIIICasts-Sheet#5_62: -3447734716333789934
+      JoannaD_ArcIIICasts-Sheet#5_63: 7598574811884120177
+      JoannaD_ArcIIICasts-Sheet#5_64: 6184046573357439717
+      JoannaD_ArcIIICasts-Sheet#5_65: -1533694755410335954
+      JoannaD_ArcIIICasts-Sheet#5_66: -377745287100023355
+      JoannaD_ArcIIICasts-Sheet#5_67: 8161745243164903966
+      JoannaD_ArcIIICasts-Sheet#5_68: 7725717184850323992
+      JoannaD_ArcIIICasts-Sheet#5_69: -3974708155832664052
+      JoannaD_ArcIIICasts-Sheet#5_7: 1298011095859968708
+      JoannaD_ArcIIICasts-Sheet#5_70: 7677709968603720422
+      JoannaD_ArcIIICasts-Sheet#5_71: 8726460509645049473
+      JoannaD_ArcIIICasts-Sheet#5_72: -7056605197898203161
+      JoannaD_ArcIIICasts-Sheet#5_73: -5782183293954949339
+      JoannaD_ArcIIICasts-Sheet#5_74: 8898960730309574633
+      JoannaD_ArcIIICasts-Sheet#5_75: 6498200110722835508
+      JoannaD_ArcIIICasts-Sheet#5_76: -4080655459004384063
+      JoannaD_ArcIIICasts-Sheet#5_77: -5876556828264642482
+      JoannaD_ArcIIICasts-Sheet#5_78: -7143964630296551723
+      JoannaD_ArcIIICasts-Sheet#5_79: 1313769176920067011
+      JoannaD_ArcIIICasts-Sheet#5_8: 8640387098706395955
+      JoannaD_ArcIIICasts-Sheet#5_80: -773437498478595204
+      JoannaD_ArcIIICasts-Sheet#5_81: -1018019219867810702
+      JoannaD_ArcIIICasts-Sheet#5_82: -3960835807950305916
+      JoannaD_ArcIIICasts-Sheet#5_83: 799695510545844694
+      JoannaD_ArcIIICasts-Sheet#5_84: -3732754584482030948
+      JoannaD_ArcIIICasts-Sheet#5_85: 4673565773083618774
+      JoannaD_ArcIIICasts-Sheet#5_86: -6125579273595973664
+      JoannaD_ArcIIICasts-Sheet#5_87: -3116999502463682262
+      JoannaD_ArcIIICasts-Sheet#5_88: 4592996889187521634
+      JoannaD_ArcIIICasts-Sheet#5_89: -6445864434702509687
+      JoannaD_ArcIIICasts-Sheet#5_9: 4122293584603484351
+      JoannaD_ArcIIICasts-Sheet#5_90: -5817581541727775844
+      JoannaD_ArcIIICasts-Sheet#5_91: -8738011983390885301
+      JoannaD_ArcIIICasts-Sheet#5_92: 2684925397933607601
+      JoannaD_ArcIIICasts-Sheet#5_93: 3319051264718004917
+      JoannaD_ArcIIICasts-Sheet#5_94: -5717489733657932202
+      JoannaD_ArcIIICasts-Sheet#5_95: 6581186227268299668
+      JoannaD_ArcIIICasts-Sheet#5_96: 6648998704336281182
+      JoannaD_ArcIIICasts-Sheet#5_97: -4838363229542521558
+      JoannaD_ArcIIICasts-Sheet#5_98: 149911008909818830
+      JoannaD_ArcIIICasts-Sheet#5_99: -3452245894446801563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

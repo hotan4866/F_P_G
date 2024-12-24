@@ -1,0 +1,2218 @@
+fileFormatVersion: 2
+guid: 8fab6e8c7a70cb64584b871b58573ac4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6404287490088104385
+    second: JoannaD_ArcIIIAttacks-Sheet_0
+  - first:
+      213: -8730864784128191925
+    second: JoannaD_ArcIIIAttacks-Sheet_1
+  - first:
+      213: -195926719685082883
+    second: JoannaD_ArcIIIAttacks-Sheet_2
+  - first:
+      213: -5867820993654387309
+    second: JoannaD_ArcIIIAttacks-Sheet_3
+  - first:
+      213: -2277817196037808907
+    second: JoannaD_ArcIIIAttacks-Sheet_4
+  - first:
+      213: 8332890936688891008
+    second: JoannaD_ArcIIIAttacks-Sheet_5
+  - first:
+      213: 6460883949529223558
+    second: JoannaD_ArcIIIAttacks-Sheet_6
+  - first:
+      213: -6764490079221396925
+    second: JoannaD_ArcIIIAttacks-Sheet_7
+  - first:
+      213: 714031639677863842
+    second: JoannaD_ArcIIIAttacks-Sheet_8
+  - first:
+      213: -2947008390113523260
+    second: JoannaD_ArcIIIAttacks-Sheet_9
+  - first:
+      213: -5054842014162531963
+    second: JoannaD_ArcIIIAttacks-Sheet_10
+  - first:
+      213: -7885555535414446737
+    second: JoannaD_ArcIIIAttacks-Sheet_11
+  - first:
+      213: 3347599120048875646
+    second: JoannaD_ArcIIIAttacks-Sheet_12
+  - first:
+      213: -5094854922020552182
+    second: JoannaD_ArcIIIAttacks-Sheet_13
+  - first:
+      213: -3658046061165432322
+    second: JoannaD_ArcIIIAttacks-Sheet_14
+  - first:
+      213: 8505611487498403520
+    second: JoannaD_ArcIIIAttacks-Sheet_15
+  - first:
+      213: -7359689645037337712
+    second: JoannaD_ArcIIIAttacks-Sheet_16
+  - first:
+      213: 8128306595285775285
+    second: JoannaD_ArcIIIAttacks-Sheet_17
+  - first:
+      213: -7950026704319973594
+    second: JoannaD_ArcIIIAttacks-Sheet_18
+  - first:
+      213: -6096420788957176192
+    second: JoannaD_ArcIIIAttacks-Sheet_19
+  - first:
+      213: 5863015656204755198
+    second: JoannaD_ArcIIIAttacks-Sheet_20
+  - first:
+      213: -8482594408996540162
+    second: JoannaD_ArcIIIAttacks-Sheet_21
+  - first:
+      213: -1368213604285457020
+    second: JoannaD_ArcIIIAttacks-Sheet_22
+  - first:
+      213: -5591788290891022157
+    second: JoannaD_ArcIIIAttacks-Sheet_23
+  - first:
+      213: 8722162029241101551
+    second: JoannaD_ArcIIIAttacks-Sheet_24
+  - first:
+      213: 8337079612238371902
+    second: JoannaD_ArcIIIAttacks-Sheet_25
+  - first:
+      213: 4219053786092698027
+    second: JoannaD_ArcIIIAttacks-Sheet_26
+  - first:
+      213: -4595102690831966761
+    second: JoannaD_ArcIIIAttacks-Sheet_27
+  - first:
+      213: -1338899925575582637
+    second: JoannaD_ArcIIIAttacks-Sheet_28
+  - first:
+      213: 4097069820054640265
+    second: JoannaD_ArcIIIAttacks-Sheet_29
+  - first:
+      213: 7908441496667768993
+    second: JoannaD_ArcIIIAttacks-Sheet_30
+  - first:
+      213: 3836097971623756357
+    second: JoannaD_ArcIIIAttacks-Sheet_31
+  - first:
+      213: 8346557609556353622
+    second: JoannaD_ArcIIIAttacks-Sheet_32
+  - first:
+      213: -786641814190828619
+    second: JoannaD_ArcIIIAttacks-Sheet_33
+  - first:
+      213: 4195356750256667637
+    second: JoannaD_ArcIIIAttacks-Sheet_34
+  - first:
+      213: 8770470667333064757
+    second: JoannaD_ArcIIIAttacks-Sheet_35
+  - first:
+      213: -7940475499134494593
+    second: JoannaD_ArcIIIAttacks-Sheet_36
+  - first:
+      213: -5460243904241567331
+    second: JoannaD_ArcIIIAttacks-Sheet_37
+  - first:
+      213: 4128701642005954343
+    second: JoannaD_ArcIIIAttacks-Sheet_38
+  - first:
+      213: -6797790943608964852
+    second: JoannaD_ArcIIIAttacks-Sheet_39
+  - first:
+      213: -3358559856941172028
+    second: JoannaD_ArcIIIAttacks-Sheet_40
+  - first:
+      213: -1630169721686386199
+    second: JoannaD_ArcIIIAttacks-Sheet_41
+  - first:
+      213: 349974702093497249
+    second: JoannaD_ArcIIIAttacks-Sheet_42
+  - first:
+      213: 2314414245087823206
+    second: JoannaD_ArcIIIAttacks-Sheet_43
+  - first:
+      213: 4312262909710999756
+    second: JoannaD_ArcIIIAttacks-Sheet_44
+  - first:
+      213: 2488009865884198724
+    second: JoannaD_ArcIIIAttacks-Sheet_45
+  - first:
+      213: 8644861585626616141
+    second: JoannaD_ArcIIIAttacks-Sheet_46
+  - first:
+      213: -5735621204270748344
+    second: JoannaD_ArcIIIAttacks-Sheet_47
+  - first:
+      213: 6472281271077266991
+    second: JoannaD_ArcIIIAttacks-Sheet_48
+  - first:
+      213: -270336400043782802
+    second: JoannaD_ArcIIIAttacks-Sheet_49
+  - first:
+      213: 4162785515694730733
+    second: JoannaD_ArcIIIAttacks-Sheet_50
+  - first:
+      213: -3098474074556913109
+    second: JoannaD_ArcIIIAttacks-Sheet_51
+  - first:
+      213: 4332551075499716325
+    second: JoannaD_ArcIIIAttacks-Sheet_52
+  - first:
+      213: -8170464271935376605
+    second: JoannaD_ArcIIIAttacks-Sheet_53
+  - first:
+      213: -720640526369145095
+    second: JoannaD_ArcIIIAttacks-Sheet_54
+  - first:
+      213: 8387978241227953877
+    second: JoannaD_ArcIIIAttacks-Sheet_55
+  - first:
+      213: -2556243967198085372
+    second: JoannaD_ArcIIIAttacks-Sheet_56
+  - first:
+      213: -5597467245632186918
+    second: JoannaD_ArcIIIAttacks-Sheet_57
+  - first:
+      213: 5857742992633118692
+    second: JoannaD_ArcIIIAttacks-Sheet_58
+  - first:
+      213: -6961638723731638154
+    second: JoannaD_ArcIIIAttacks-Sheet_59
+  - first:
+      213: 1929450462343315429
+    second: JoannaD_ArcIIIAttacks-Sheet_60
+  - first:
+      213: 3002130822435891176
+    second: JoannaD_ArcIIIAttacks-Sheet_61
+  - first:
+      213: 4580159667634005131
+    second: JoannaD_ArcIIIAttacks-Sheet_62
+  - first:
+      213: -6945409915636240731
+    second: JoannaD_ArcIIIAttacks-Sheet_63
+  - first:
+      213: -1748647759454482097
+    second: JoannaD_ArcIIIAttacks-Sheet_64
+  - first:
+      213: -2265481956546554508
+    second: JoannaD_ArcIIIAttacks-Sheet_65
+  - first:
+      213: 3040594058349125724
+    second: JoannaD_ArcIIIAttacks-Sheet_66
+  - first:
+      213: -4212365644018312408
+    second: JoannaD_ArcIIIAttacks-Sheet_67
+  - first:
+      213: -2742214604302612315
+    second: JoannaD_ArcIIIAttacks-Sheet_68
+  - first:
+      213: -8999920098192879820
+    second: JoannaD_ArcIIIAttacks-Sheet_69
+  - first:
+      213: 5205391403580425019
+    second: JoannaD_ArcIIIAttacks-Sheet_70
+  - first:
+      213: 7709348494238034926
+    second: JoannaD_ArcIIIAttacks-Sheet_71
+  - first:
+      213: -111302124721323340
+    second: JoannaD_ArcIIIAttacks-Sheet_72
+  - first:
+      213: 4300452879780147973
+    second: JoannaD_ArcIIIAttacks-Sheet_73
+  - first:
+      213: -5641395740098786165
+    second: JoannaD_ArcIIIAttacks-Sheet_74
+  - first:
+      213: 4219487950287764128
+    second: JoannaD_ArcIIIAttacks-Sheet_75
+  - first:
+      213: 661471733914486943
+    second: JoannaD_ArcIIIAttacks-Sheet_76
+  - first:
+      213: -2526169163118846511
+    second: JoannaD_ArcIIIAttacks-Sheet_77
+  - first:
+      213: 4442937633778556405
+    second: JoannaD_ArcIIIAttacks-Sheet_78
+  - first:
+      213: -6634128003807860061
+    second: JoannaD_ArcIIIAttacks-Sheet_79
+  - first:
+      213: 7139012688346233045
+    second: JoannaD_ArcIIIAttacks-Sheet_80
+  - first:
+      213: 3318053663857255093
+    second: JoannaD_ArcIIIAttacks-Sheet_81
+  - first:
+      213: 7501604067019078617
+    second: JoannaD_ArcIIIAttacks-Sheet_82
+  - first:
+      213: -2842531359991287266
+    second: JoannaD_ArcIIIAttacks-Sheet_83
+  - first:
+      213: 1988655691382256303
+    second: JoannaD_ArcIIIAttacks-Sheet_84
+  - first:
+      213: 7107932501054055113
+    second: JoannaD_ArcIIIAttacks-Sheet_85
+  - first:
+      213: -1440044182102891787
+    second: JoannaD_ArcIIIAttacks-Sheet_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1fd267a8990e850800000000000000
+      internalID: 6404287490088104385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b425218acbcb5d680800000000000000
+      internalID: -8730864784128191925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0c92fbfade74df0800000000000000
+      internalID: -195926719685082883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d86a335ef419ea0800000000000000
+      internalID: -5867820993654387309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcd3ee14519360e0800000000000000
+      internalID: -2277817196037808907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084d969482064a370800000000000000
+      internalID: 8332890936688891008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68156ba88bba9a950800000000000000
+      internalID: 6460883949529223558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aca5ddc14bf12a0800000000000000
+      internalID: -6764490079221396925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a783614effb8e900800000000000000
+      internalID: 714031639677863842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9003dab7f1a17d0800000000000000
+      internalID: -2947008390113523260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5894f1648f799d9b0800000000000000
+      internalID: -5054842014162531963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65b10f1501e09290800000000000000
+      internalID: -7885555535414446737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e786ce0d9af057e20800000000000000
+      internalID: 3347599120048875646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0280de21707b49b0800000000000000
+      internalID: -5094854922020552182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1b7301d720c3dc0800000000000000
+      internalID: -3658046061165432322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cef2dd45900a0670800000000000000
+      internalID: 8505611487498403520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093cd6ad2412dd990800000000000000
+      internalID: -7359689645037337712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 320
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3397568cb8dc070800000000000000
+      internalID: 8128306595285775285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627732e55d4dba190800000000000000
+      internalID: -7950026704319973594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e96e8b799256ba0800000000000000
+      internalID: -6096420788957176192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef063acfcad9d5150800000000000000
+      internalID: 5863015656204755198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0fb06e355c74a80800000000000000
+      internalID: -8482594408996540162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d55bbd9f0230de0800000000000000
+      internalID: -1368213604285457020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0804e0d2af562b0800000000000000
+      internalID: -5591788290891022157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 240
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fece05257285b0970800000000000000
+      internalID: 8722162029241101551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 240
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c9e9f4cb143b370800000000000000
+      internalID: 8337079612238371902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 240
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba97250a0171d8a30800000000000000
+      internalID: 4219053786092698027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 240
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddd486d27aea30c0800000000000000
+      internalID: -4595102690831966761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 240
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c354a8c954b6de0800000000000000
+      internalID: -1338899925575582637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 240
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986945c4b47bbd830800000000000000
+      internalID: 4097069820054640265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a847d7f3ad60cd60800000000000000
+      internalID: 7908441496667768993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5420b3ad7ce8c3530800000000000000
+      internalID: 3836097971623756357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652a0f68cede4d370800000000000000
+      internalID: 8346557609556353622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3dfa310794515f0800000000000000
+      internalID: -786641814190828619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbf5158cb6e83a30800000000000000
+      internalID: 4195356750256667637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538de5f9a98f6b970800000000000000
+      internalID: 8770470667333064757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78556e9a93cdc190800000000000000
+      internalID: -7940475499134494593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9970b449115934b0800000000000000
+      internalID: -5460243904241567331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 160
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f3653c4481c4930800000000000000
+      internalID: 4128701642005954343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09f1dc272569a1a0800000000000000
+      internalID: -6797790943608964852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca7222ca9ff361d0800000000000000
+      internalID: -3358559856941172028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9194f66497069e0800000000000000
+      internalID: -1630169721686386199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3f7a6232c5bd400800000000000000
+      internalID: 349974702093497249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665409d5e737e1020800000000000000
+      internalID: 2314414245087823206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0aa6fd44c38db30800000000000000
+      internalID: 4312262909710999756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447e1bd7acf278220800000000000000
+      internalID: 2488009865884198724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41d1b74fc7b8f770800000000000000
+      internalID: 8644861585626616141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d6e3147eaf660b0800000000000000
+      internalID: -5735621204270748344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2669f0468922d950800000000000000
+      internalID: 6472281271077266991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d4889f9729f3cf0800000000000000
+      internalID: -270336400043782802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded20230f5f25c930800000000000000
+      internalID: 4162785515694730733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a2740ee320005d0800000000000000
+      internalID: -3098474074556913109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eea5629f30502c30800000000000000
+      internalID: 4332551075499716325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323754d980eac9e80800000000000000
+      internalID: -8170464271935376605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe34076245cff5f0800000000000000
+      internalID: -720640526369145095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 80
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6191cd4c5186470800000000000000
+      internalID: 8387978241227953877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f3ce7c7a5668cd0800000000000000
+      internalID: -2556243967198085372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5953e523dc152b0800000000000000
+      internalID: -5597467245632186918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef3e655732ea4150800000000000000
+      internalID: 5857742992633118692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6783f51177a436f90800000000000000
+      internalID: -6961638723731638154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efbfab09f8c6ca10800000000000000
+      internalID: 1929450462343315429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7ea88b316b9a920800000000000000
+      internalID: 3002130822435891176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8465e373feff8f30800000000000000
+      internalID: 4580159667634005131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aea607ea72fc9f90800000000000000
+      internalID: -6945409915636240731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41de64a02e8bb7e0800000000000000
+      internalID: -1748647759454482097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4755cfed9246f80e0800000000000000
+      internalID: -2265481956546554508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c502012bf2c523a20800000000000000
+      internalID: 3040594058349125724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b9a3cc3cbaa85c0800000000000000
+      internalID: -4212365644018312408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a887a4a852b1f9d0800000000000000
+      internalID: -2742214604302612315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f8054ba5cd91380800000000000000
+      internalID: -8999920098192879820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b338847f6e34d3840800000000000000
+      internalID: 5205391403580425019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb20c01c9b1dfa60800000000000000
+      internalID: 7709348494238034926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b24d39ae43947ef0800000000000000
+      internalID: -111302124721323340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503f9900c174eab30800000000000000
+      internalID: 4300452879780147973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c820ab67cb5b1b0800000000000000
+      internalID: -5641395740098786165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa71fa5fe1ae8a30800000000000000
+      internalID: 4219487950287764128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f984fe099050e2900800000000000000
+      internalID: 661471733914486943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd51c5c78e31fcd0800000000000000
+      internalID: -2526169163118846511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdd59cfc3c78ad30800000000000000
+      internalID: 4442937633778556405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoannaD_ArcIIIAttacks-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 0
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaaf8acab7dee3a0800000000000000
+      internalID: -6634128003807860061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 588d181ea1963814a8d17af21ea0f9ad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JoannaD_ArcIIIAttacks-Sheet_0: 6404287490088104385
+      JoannaD_ArcIIIAttacks-Sheet_1: -8730864784128191925
+      JoannaD_ArcIIIAttacks-Sheet_10: -5054842014162531963
+      JoannaD_ArcIIIAttacks-Sheet_11: -7885555535414446737
+      JoannaD_ArcIIIAttacks-Sheet_12: 3347599120048875646
+      JoannaD_ArcIIIAttacks-Sheet_13: -5094854922020552182
+      JoannaD_ArcIIIAttacks-Sheet_14: -3658046061165432322
+      JoannaD_ArcIIIAttacks-Sheet_15: 8505611487498403520
+      JoannaD_ArcIIIAttacks-Sheet_16: -7359689645037337712
+      JoannaD_ArcIIIAttacks-Sheet_17: 8128306595285775285
+      JoannaD_ArcIIIAttacks-Sheet_18: -7950026704319973594
+      JoannaD_ArcIIIAttacks-Sheet_19: -6096420788957176192
+      JoannaD_ArcIIIAttacks-Sheet_2: -195926719685082883
+      JoannaD_ArcIIIAttacks-Sheet_20: 5863015656204755198
+      JoannaD_ArcIIIAttacks-Sheet_21: -8482594408996540162
+      JoannaD_ArcIIIAttacks-Sheet_22: -1368213604285457020
+      JoannaD_ArcIIIAttacks-Sheet_23: -5591788290891022157
+      JoannaD_ArcIIIAttacks-Sheet_24: 8722162029241101551
+      JoannaD_ArcIIIAttacks-Sheet_25: 8337079612238371902
+      JoannaD_ArcIIIAttacks-Sheet_26: 4219053786092698027
+      JoannaD_ArcIIIAttacks-Sheet_27: -4595102690831966761
+      JoannaD_ArcIIIAttacks-Sheet_28: -1338899925575582637
+      JoannaD_ArcIIIAttacks-Sheet_29: 4097069820054640265
+      JoannaD_ArcIIIAttacks-Sheet_3: -5867820993654387309
+      JoannaD_ArcIIIAttacks-Sheet_30: 7908441496667768993
+      JoannaD_ArcIIIAttacks-Sheet_31: 3836097971623756357
+      JoannaD_ArcIIIAttacks-Sheet_32: 8346557609556353622
+      JoannaD_ArcIIIAttacks-Sheet_33: -786641814190828619
+      JoannaD_ArcIIIAttacks-Sheet_34: 4195356750256667637
+      JoannaD_ArcIIIAttacks-Sheet_35: 8770470667333064757
+      JoannaD_ArcIIIAttacks-Sheet_36: -7940475499134494593
+      JoannaD_ArcIIIAttacks-Sheet_37: -5460243904241567331
+      JoannaD_ArcIIIAttacks-Sheet_38: 4128701642005954343
+      JoannaD_ArcIIIAttacks-Sheet_39: -6797790943608964852
+      JoannaD_ArcIIIAttacks-Sheet_4: -2277817196037808907
+      JoannaD_ArcIIIAttacks-Sheet_40: -3358559856941172028
+      JoannaD_ArcIIIAttacks-Sheet_41: -1630169721686386199
+      JoannaD_ArcIIIAttacks-Sheet_42: 349974702093497249
+      JoannaD_ArcIIIAttacks-Sheet_43: 2314414245087823206
+      JoannaD_ArcIIIAttacks-Sheet_44: 4312262909710999756
+      JoannaD_ArcIIIAttacks-Sheet_45: 2488009865884198724
+      JoannaD_ArcIIIAttacks-Sheet_46: 8644861585626616141
+      JoannaD_ArcIIIAttacks-Sheet_47: -5735621204270748344
+      JoannaD_ArcIIIAttacks-Sheet_48: 6472281271077266991
+      JoannaD_ArcIIIAttacks-Sheet_49: -270336400043782802
+      JoannaD_ArcIIIAttacks-Sheet_5: 8332890936688891008
+      JoannaD_ArcIIIAttacks-Sheet_50: 4162785515694730733
+      JoannaD_ArcIIIAttacks-Sheet_51: -3098474074556913109
+      JoannaD_ArcIIIAttacks-Sheet_52: 4332551075499716325
+      JoannaD_ArcIIIAttacks-Sheet_53: -8170464271935376605
+      JoannaD_ArcIIIAttacks-Sheet_54: -720640526369145095
+      JoannaD_ArcIIIAttacks-Sheet_55: 8387978241227953877
+      JoannaD_ArcIIIAttacks-Sheet_56: -2556243967198085372
+      JoannaD_ArcIIIAttacks-Sheet_57: -5597467245632186918
+      JoannaD_ArcIIIAttacks-Sheet_58: 5857742992633118692
+      JoannaD_ArcIIIAttacks-Sheet_59: -6961638723731638154
+      JoannaD_ArcIIIAttacks-Sheet_6: 6460883949529223558
+      JoannaD_ArcIIIAttacks-Sheet_60: 1929450462343315429
+      JoannaD_ArcIIIAttacks-Sheet_61: 3002130822435891176
+      JoannaD_ArcIIIAttacks-Sheet_62: 4580159667634005131
+      JoannaD_ArcIIIAttacks-Sheet_63: -6945409915636240731
+      JoannaD_ArcIIIAttacks-Sheet_64: -1748647759454482097
+      JoannaD_ArcIIIAttacks-Sheet_65: -2265481956546554508
+      JoannaD_ArcIIIAttacks-Sheet_66: 3040594058349125724
+      JoannaD_ArcIIIAttacks-Sheet_67: -4212365644018312408
+      JoannaD_ArcIIIAttacks-Sheet_68: -2742214604302612315
+      JoannaD_ArcIIIAttacks-Sheet_69: -8999920098192879820
+      JoannaD_ArcIIIAttacks-Sheet_7: -6764490079221396925
+      JoannaD_ArcIIIAttacks-Sheet_70: 5205391403580425019
+      JoannaD_ArcIIIAttacks-Sheet_71: 7709348494238034926
+      JoannaD_ArcIIIAttacks-Sheet_72: -111302124721323340
+      JoannaD_ArcIIIAttacks-Sheet_73: 4300452879780147973
+      JoannaD_ArcIIIAttacks-Sheet_74: -5641395740098786165
+      JoannaD_ArcIIIAttacks-Sheet_75: 4219487950287764128
+      JoannaD_ArcIIIAttacks-Sheet_76: 661471733914486943
+      JoannaD_ArcIIIAttacks-Sheet_77: -2526169163118846511
+      JoannaD_ArcIIIAttacks-Sheet_78: 4442937633778556405
+      JoannaD_ArcIIIAttacks-Sheet_79: -6634128003807860061
+      JoannaD_ArcIIIAttacks-Sheet_8: 714031639677863842
+      JoannaD_ArcIIIAttacks-Sheet_9: -2947008390113523260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
